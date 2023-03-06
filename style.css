@@ -1,0 +1,51 @@
+/* */ 
+body {
+
+    margin:0;
+    font-family: 'Open-Sans', sans-serif;
+    color: rgb(44, 41, 44);
+    background-color: rgb(250, 240, 247);;
+}
+#main-header {
+    background-color: rgb(136, 0, 255);
+    color: white;
+    padding: 2 rem 5%;
+    text-align: center;
+
+}
+
+
+/*ventana emergente*/
+main {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1rem;
+    
+    
+    }
+.modal {
+
+    
+        background-color: white;
+        width: 40%;
+        padding: 1rem;
+        border-radius: 6px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        margin: 3vw;
+        
+        
+     }
+        
+.modal2 {
+
+            background-color: white;
+            width: 40%;
+            padding: 1rem;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            margin: 3vw;
+            
+            }
+
